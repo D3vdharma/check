@@ -1,4 +1,4 @@
-package String;
+
 
 import java.util.Scanner;
 
@@ -21,9 +21,7 @@ public class ReverseEachWord {
                     System.out.print(e.charAt(i));
                }
                System.out.print(" ");
-    
-            }
-        
+        }    
     }
 
 }

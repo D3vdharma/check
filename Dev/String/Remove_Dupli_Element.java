@@ -1,4 +1,4 @@
-package String;
+
 import java.util.Scanner;
 
 class Remove_Dupli_Element {
@@ -33,8 +33,7 @@ class Remove_Dupli_Element {
 
              return s;
         }
-        
-
+    
 
     }
 
